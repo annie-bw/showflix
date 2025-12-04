@@ -202,10 +202,5 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Developer
 
-Created as a showcase of modern React development practices and UI/UX design skills.
+Created as a showcase of modern React development practices and UI/UX design skills, and wanted to have fun cloning netflix
 
----
-
-⭐ **If you like this project, please give it a star!**
-
-For questions or suggestions, feel free to open an issue or reach out!
